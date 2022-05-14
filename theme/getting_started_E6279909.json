@@ -1,0 +1,12 @@
+[
+
+{objectId: "3.2329841703462285E-305", title: "Начало работы", url: "core.base_rup/customcategories/getting_started_E6279909.html", nodeDocType: "3ebda39d", 
+children: [
+
+{objectId: "1.8262162566452063E-305", title: "Абстрактные путеводители", url: "core.base_rup/customcategories/conceptual_road_maps_2DE84E99.html", nodeDocType: "a05ed82e", 
+children: [
+
+{objectId: "6.991505672198195E-305", title: "Тонкая настройка RUP", url: "core.base_rup/guidances/concepts/tailoring_rup_F8F0EB23.html", nodeDocType: "a05ed82e"},
+{objectId: "2.721222001330515E-305", title: "Тонкая настройка процесса для малых проектов", url: "core.base_rup/guidances/concepts/tailoring_a_process_for_a_small_project_21481E2E.html", nodeDocType: "a05ed82e"}]}]}
+]
+

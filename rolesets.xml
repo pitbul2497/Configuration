@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RoleSets nodeId="f1a69b78">
+<RoleSet pname="Аналитики" name="analysts" nodeId="29f68bf6">
+<Role pname="Аналитик" name="rup_system_analyst" nodeId="64dccd52"></Role>
+<Role pname="Заинтересованное лицо" name="rup_stakeholder" nodeId="ded84aa2"></Role>
+<Role pname="Разработчик требований" name="rup_requirement_specifier" nodeId="19be8bfe"></Role>
+</RoleSet>
+<RoleSet pname="Разработчики" name="developers" nodeId="512d045c">
+<Role pname="Интегратор" name="rup_integrator" nodeId="631ef3e8"></Role>
+<Role pname="Проектировщик" name="rup_designer" nodeId="a9a10594"></Role>
+<Role pname="Проектировщик базы данных" name="rup_database_designer" nodeId="e48746f0"></Role>
+<Role pname="Проектировщик интерфейса" name="rup_user_interface_designer" nodeId="1bf5bf4e"></Role>
+<Role pname="Проектировщик капсул" name="rup_capsule_designer" nodeId="9969059c"></Role>
+<Role pname="Реализатор" name="rup_implementer" nodeId="d0d77dfa"></Role>
+</RoleSet>
+<RoleSet pname="Тестировщики" name="testers" nodeId="ed338556"></RoleSet>
+<RoleSet pname="Администраторы" name="managers" nodeId="24a1fdb4">
+<Role pname="Администратор конфигурации" name="rup_configuration_manager" nodeId="5f883f10"></Role>
+<Role pname="Администратор развертывания" name="rup_deployment_manager" nodeId="96f6b76e"></Role>
+<Role pname="Администратор системы" name="rup_system_administrator" nodeId="1469fdbc"></Role>
+<Role pname="Администратор управления изменениями" name="rup_change_manager" nodeId="4bd8761a"></Role>
+<Role pname="Руководитель проекта" name="rup_project_manager" nodeId="86beb776"></Role>
+</RoleSet>
+<RoleSet pname="Работа и поддержка" name="production_support" nodeId="9538de04">
+<Role pname="Администратор системы" name="rup_system_administrator" nodeId="d01f1f60"></Role>
+<Role pname="Дизайнер графических материалов" name="rup_graphic_artist" nodeId="634f1b6e"></Role>
+<Role pname="Инженер" name="rup_process_engineer" nodeId="9e355cca"></Role>
+<Role pname="Разработчик курса" name="rup_course_developer" nodeId="acaf8358"></Role>
+<Role pname="Специалист по инструментам" name="rup_tool_specialist" nodeId="e795c4b4"></Role>
+<Role pname="Технический писатель" name="rup_technical_writer" nodeId="1f043d12"></Role>
+</RoleSet>
+<RoleSet pname="Общие роли" name="general_roles" nodeId="6454963e">
+<Role pname="Заинтересованное лицо" name="rup_stakeholder" nodeId="de50138e"></Role>
+<Role pname="Любая роль" name="rup_any_role" nodeId="193654ea"></Role>
+</RoleSet>
+</RoleSets>
